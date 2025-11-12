@@ -44,7 +44,7 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
 		<PackageReference Include="NUnit.Console" Version="3.11.1" />
-		<PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
 		<PackageReference Include="NUnitLite" Version="3.13.3" />
 		<PackageReference Include="log4net" Version="2.0.13" />
 		<PackageReference Include="NLog" Version="4.5.0" />
